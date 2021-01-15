@@ -1,0 +1,19 @@
+.contactForm {
+    padding: 25px;
+    float: left;
+}
+.contactFontSettings {
+    font-size: 34px;
+    font-family: Roboto;
+    width: 600px;
+}
+.contactBtn {
+    font-size: 34px;
+    font-family: Roboto;
+
+}
+.errorP {
+    font-family: Roboto;
+    font-size: 20px;
+    color: red;
+}
